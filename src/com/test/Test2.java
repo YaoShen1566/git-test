@@ -5,4 +5,5 @@ public class Test2 {
     //master1
     //branch1
     String s = "1";
+    String s2 = "s2";
 }
